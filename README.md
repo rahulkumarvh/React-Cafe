@@ -2,6 +2,8 @@
 
 A react based front-end project with functionalities to specify the number of items you want and add them to a well though of cart with an intuitive UI 
 
+# Features
+
 -Minimal UI
 
 ![1](https://user-images.githubusercontent.com/66205950/129450321-e95ee25a-2dba-43b6-8764-32817077a46f.jpg)
