@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Cafe/static/css/main.d2f432c4.chunk.css",
+    "main.js": "/React-Cafe/static/js/main.5abafa29.chunk.js",
+    "main.js.map": "/React-Cafe/static/js/main.5abafa29.chunk.js.map",
+    "runtime-main.js": "/React-Cafe/static/js/runtime-main.9c9faee7.js",
+    "runtime-main.js.map": "/React-Cafe/static/js/runtime-main.9c9faee7.js.map",
+    "static/js/2.b59ee90a.chunk.js": "/React-Cafe/static/js/2.b59ee90a.chunk.js",
+    "static/js/2.b59ee90a.chunk.js.map": "/React-Cafe/static/js/2.b59ee90a.chunk.js.map",
+    "index.html": "/React-Cafe/index.html",
+    "static/css/main.d2f432c4.chunk.css.map": "/React-Cafe/static/css/main.d2f432c4.chunk.css.map",
+    "static/js/2.b59ee90a.chunk.js.LICENSE.txt": "/React-Cafe/static/js/2.b59ee90a.chunk.js.LICENSE.txt",
+    "static/media/coffee.24886edc.jpg": "/React-Cafe/static/media/coffee.24886edc.jpg",
+    "static/media/pattern.43afb501.png": "/React-Cafe/static/media/pattern.43afb501.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c9faee7.js",
+    "static/js/2.b59ee90a.chunk.js",
+    "static/css/main.d2f432c4.chunk.css",
+    "static/js/main.5abafa29.chunk.js"
+  ]
+}
