@@ -2,6 +2,9 @@
 
 A react based front-end project with functionalities to specify the number of items you want and add them to a well though of cart with an intuitive UI 
 
+# Check out the Demo for the web app:
+https://rahulkumarvh.github.io/React-Cafe/
+
 # Features
 
 -Minimal UI
